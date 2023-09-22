@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Agareovo1
+# 👋 Hi, I’m Agare Success Ogheneovo
 
 Welcome to my GitHub profile! I'm passionate about software development and technology, and I'm excited to share my journey with you.
 
